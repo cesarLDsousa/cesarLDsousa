@@ -1,4 +1,4 @@
-<h2> Hello, i'm Cesar! </h2>
+<h2> Hello, I'm Cesar! </h2>
 <p>
  • <a href="https://www.linkedin.com/in/cesarluizdev/">LinkedIn</a> •
 </p>
