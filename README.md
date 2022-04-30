@@ -1,7 +1,4 @@
 <h2> Hello, I'm Cesar! </h2>
-<p>
- • <a href="https://www.linkedin.com/in/cesarluizdev/">LinkedIn</a> •
-</p>
 
 - :books: I’m currently studying Computer Science at <a href="https://www.univali.br/"> <em>Universidade do Vale do Itajaí</em> </a>
 - 🔭 I’m currently learning a bunch of cool things! Like...
